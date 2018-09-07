@@ -1,6 +1,6 @@
-# nbmpwx
+# espush mpwx
 
-> nb-iot wechat mini program.
+> espush wechat mini program.
 
 ## Build Setup
 
